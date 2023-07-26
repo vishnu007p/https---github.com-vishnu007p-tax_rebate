@@ -1,0 +1,47 @@
+body {
+  margin: 0;
+  line-height: normal;
+}
+
+:root {
+  /* fonts */
+  --pt: Inter;
+  --font-fontawesome: FontAwesome;
+  --font-ibm-plex-sans: "IBM Plex Sans";
+
+  /* font sizes */
+  --pt-size: 14px;
+  --font-size-6xl: 25px;
+  --font-size-xs: 12px;
+  --paragraph-size: 16px;
+  --h1-size: 56px;
+  --h6-size: 20px;
+
+  /* Colors */
+  --white: #fff;
+  --color-silver: #c4c4c4;
+  --tax-dark-blue: #02274c;
+  --black: #091520;
+  --color-linen: #f2efe6;
+  --turqoise: #40a5a2;
+  --dark-blue: #163651;
+  --bg3: #f0f9f9;
+
+  /* Gaps */
+  --gap-5xl: 24px;
+
+  /* Paddings */
+  --padding-5xl: 24px;
+  --padding-2xs: 11px;
+
+  /* border radiuses */
+  --br-base: 16px;
+  --br-xl: 20px;
+  --br-11xs: 2px;
+  --br-5xl: 24px;
+
+  /* Effects */
+  --shadow: 0px 6px 12px -6px rgba(24, 39, 75, 0.08),
+    0px 8px 24px -4px rgba(24, 39, 75, 0.08);
+  --shadow-1: 0px 4px 16px rgba(0, 0, 0, 0.08);
+}
